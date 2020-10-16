@@ -27,5 +27,3 @@ You'll need to build the following routes:
 The `name` route should display "My name is \_\_" in the browser, the `hometown` route should display "My hometown is \_\_", and the `favorite-song` route should display "My favorite song is \_\_".
 
 Don't forget to run `rspec` in terminal to test your code.
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-basic-routes-lab' title='Sinatra Routes Lab'>Sinatra Routes Lab</a> on Learn.co and start learning to code for free.</p>
